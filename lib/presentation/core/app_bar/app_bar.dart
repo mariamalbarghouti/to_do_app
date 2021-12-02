@@ -66,5 +66,5 @@ class NoteAppBar extends StatelessWidget with PreferredSizeWidget {
   }
 
   @override
-  Size get preferredSize => 
+  Size get preferredSize => Size.fromHeight(22.h);
 }
