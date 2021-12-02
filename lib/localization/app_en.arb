@@ -1,0 +1,15 @@
+{   
+    "homeAppBarTitle": "What's up!",
+    "homeTodayTapTitle":"Today",
+    "homeTomorrowTapTitle":"Tomorrow",
+    "homeSomeDayTapTitle":"Some Day",
+    "rateUs":"Rate Us",
+    "shareApp":"Share App",
+    "addNewNote":"Add new note",
+    "update": "Update",
+    "delete": "Delete",
+    "moveToTodayTasks": "Move to today tasks",
+    "moveTomorrowTasks": "Move to tomorrow tasks",
+    "moveToSomeDayTasks": "Move to some day tasks",
+    "noteTextTips":"note"
+}

@@ -1,0 +1,15 @@
+{
+    "homeAppBarTitle":  "كيف حالك!",
+    "homeTodayTapTitle":"اليوم",
+    "homeTomorrowTapTitle": "غداً",
+    "homeSomeDayTapTitle":"يوماً ما",
+    "rateUs":"قيمنا",
+    "shareApp":"شارك التطبيق",
+    "addNewNote":"إضافة مهام جديدة",
+    "update": "تعديل",
+    "delete":  "مسح",
+    "moveToTodayTasks":  "إنقله إلى اليوم غداً",
+    "moveTomorrowTasks": "إنقله إلى مهام غداً",
+    "moveToSomeDayTasks": "إنقله إلى مهام يوماً ما",
+    "noteTextTips":"المهمة"
+}

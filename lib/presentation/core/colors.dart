@@ -1,0 +1,15 @@
+const int pagesBackgroundColor= 0xffEDEEF2;
+// const int appBarColor= 0xffF5F5F5;
+const int fadedGreyColor= 0xff656772;
+const int fadedGreyLineThoughColor= 0xffA5A6AF;
+const int fadedGreyDividerColor= 0xff9E9E9E;
+// const int fadedGreyLineThoughColr= 0xf89656772;
+const int accentColor= 0xff4F5DF2;
+// const int accentColor= 0xff50E3A4;
+// const int fadedGreyColor= 0xff4F5DF2;
+const int blackColor= 0xff000000;
+const int whiteColor= 0xffffffff;
+// const int fuchsiaColor= 0xffFF1A70;
+const int shadowColor= 0xffAFAFAF;
+const int greyColor= 0xffB7B7B7;
+// const int shadowColor= 0xffBCBCBC;
