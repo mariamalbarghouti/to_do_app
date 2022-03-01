@@ -40,6 +40,9 @@ include with your application.
 The `assets/images` directory contains [resolution-aware
 images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
 
+## Custom Fonts
+I have followed the instructions of flutter documentation [custom fonts](https://docs.flutter.dev/cookbook/design/fonts).
+
 ## Localization
 
 This project generates localized messages based on arb files found in
