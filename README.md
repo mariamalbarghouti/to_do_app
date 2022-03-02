@@ -20,7 +20,8 @@ which provides the progressive evolution of the project.
 - **Domain-Driven Design** Architecture. 
 
 
-![DDD Architecture Image](https://firebasestorage.googleapis.com/v0/b/fluttertrail.appspot.com/o/DDD-Flutter-Diagram-v3.svg?alt=media&token=c3bc41f7-7081-4ad5-9d55-1f4fcb4e244b)
+![DDD Architecture Image](https://firebasestorage.googleapis.com/v0/b/fluttertrail.appspot.com/o/githup_documentation%2FDDD-Flutter-Diagram-v3.svg?alt=media&token=8666be3c-21e2-428f-8cb5-00b13b910047)
+
 - For Databse I have used SQL Lite by using the handy package **sqflite** [Check It Out](https://pub.dev/packages/sqflite).
 -  For Json Serializer, I have used **json_serializable** Package [Check It Out](https://pub.dev/packages/json_serializable).
 - Using Singleton Design Pattern for creating a single point if access to a particular instance, By Using **injectable** Package  [Check It Out](https://pub.dev/packages/injectable).
