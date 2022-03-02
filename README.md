@@ -22,16 +22,16 @@ which provides the progressive evolution of the project.
 
 ![DDD Architecture Image](https://firebasestorage.googleapis.com/v0/b/fluttertrail.appspot.com/o/githup_documentation%2FDDD-Flutter-Diagram-v3.svg?alt=media&token=8666be3c-21e2-428f-8cb5-00b13b910047)
 
-- For Databse I have used SQL Lite by using the handy package **sqflite** [Check It Out](https://pub.dev/packages/sqflite).
--  For Json Serializer, I have used **json_serializable** Package [Check It Out](https://pub.dev/packages/json_serializable).
-- Using Singleton Design Pattern for creating a single point if access to a particular instance, By Using **injectable** Package  [Check It Out](https://pub.dev/packages/injectable).
-- For Application "Logic" Layer, I have Used **flutter_bloc** Package [Check It Out](https://pub.dev/packages/flutter_bloc).
-  - For Tracking the states, I have Used **bloc** Package [Check It Out](https://pub.dev/packages/bloc).
--  For data-classes or pattern matching, I Have Used **freezed** Package, [Check It Out](https://pub.dev/packages/freezed).
--  For Applying Functional Programming, I Have Used **dartz** Pachage,[Check It Out](https://pub.dev/packages/dartz).
-- For Responsive UI, I have used **sizer** Package,[Check It Out](https://pub.dev/packages/sizer).
-- For Sharing The Application, I have used **share** Package,[Check It Out](https://pub.dev/packages/share).
-- For Google Play Inside The Application, I have used **url_launcher** Package,[Check It Out](https://pub.dev/packages/url_launcher).
+- For Databse I have used SQL Lite by using the handy [sqflite](https://pub.dev/packages/sqflite) package.
+-  For Json Serializer, I have used package [json_serializable](https://pub.dev/packages/json_serializable).
+- Using Singleton Design Pattern for creating a single point if access to a particular instance, By Using [injectable](https://pub.dev/packages/injectable)Package.
+- For Application "Logic" Layer, I have Used [flutter_bloc](https://pub.dev/packages/flutter_bloc) Package.
+  - For Tracking the states, I have Used [bloc](https://pub.dev/packages/bloc) Package.
+-  For data-classes or pattern matching, I Have Used [freezed](https://pub.dev/packages/freezed) Package.
+-  For Applying Functional Programming, I Have Used [dartz](https://pub.dev/packages/dartz) Package.
+- For Responsive UI, I have used Package [sizer](https://pub.dev/packages/sizer) Package.
+- For Sharing The Application, I have used Package [share](https://pub.dev/packages/share) Package.
+- For Google Play Inside The Application, I have used [url_launcher](https://pub.dev/packages/url_launcher) Package.
 
 ## Assets
 
